@@ -1,4 +1,1 @@
-# HealthMate App
-
-This is the initial commit file added to enable folder uploads.  
-More project documentation will be added later.
+HealthMate is a Flutter app for tracking daily health metrics like steps, calories, and water intake. It uses SQLite for offline storage and Provider for state management. Features include dashboards, CRUD operations, analytics, AI tips, reminders, and profile management.
